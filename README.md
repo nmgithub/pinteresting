@@ -3,7 +3,7 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-This is Nadege's first update.
+This is Nadege's first Ruby update.
 
 Things you may want to cover:
 
